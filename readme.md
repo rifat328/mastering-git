@@ -1,4 +1,6 @@
-## Mastering Git 1
+
+## Mastering Git 
+
 
 - added Branch
   -- Git init --
@@ -32,3 +34,8 @@ git checkout -b testingTeam
 make a branch not under main branch but a specified branch of an branch
 git branch testingTeam2 testingTeam
 here testingTeam2 is a new branch of testingTeam
+
+git push --set-upstream origin testingTeam2
+remote origin => branch Name
+git push -u origin testingTeam2 set a tracking relation ship
+git pull to up to date
