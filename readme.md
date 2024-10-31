@@ -1,4 +1,6 @@
-## Mastering Git 3
+
+## Mastering Git 
+
 
 - added Branch
   -- Git init --
@@ -36,4 +38,8 @@ here testingTeam2 is a new branch of testingTeam
 git push --set-upstream origin testingTeam2
 remote origin => branch Name
 git push -u origin testingTeam2 set a tracking relation ship
+
 git pull to up to date [Gives up to-date code ...]
+
+
+
